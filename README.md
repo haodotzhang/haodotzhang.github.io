@@ -1,2 +1,2 @@
-# http-haodotzhang.github.io
-my personal page
+# haodotzhang.github.io
+my personal home page
